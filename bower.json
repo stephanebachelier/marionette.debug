@@ -1,0 +1,20 @@
+{
+  "name": "marionette.debug",
+  "version": "0.0.0",
+  "description": "Utilities to debug a marionette application",
+  "main": "dist/marionette.debug.js",
+  "author": {
+    "name": "Stéphane Bachelier",
+    "email": "stephane.bachelier@gmail.com"
+  },
+  "repository": "stephanebachelier/marionette.debug",
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
